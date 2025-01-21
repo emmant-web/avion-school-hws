@@ -1,0 +1,54 @@
+body {
+    background: url('https://img.freepik.com/premium-vector/hand-drawn-seamless-pattern-pizza-doodle-different-slices-pizza-sketch-style_563464-408.jpg?semt=ais_hybrid');
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+  }
+  
+  h1 {
+    color: crimson;
+    position: sticky;
+    top: 20px
+  }
+  
+  img {
+    width: 400px;
+  }
+  
+  
+  
+  div {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  
+  .divClass {
+    text-align: center;
+  }
+  
+  h1,
+  h3,
+  h4 {
+    display: flex;
+    justify-content: center;
+  }
+  
+  
+  
+  #thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: darkgreen;
+    padding: 50px;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+  
+  }
+  
+  
+  #spanId {
+    font-size: 18px;
+    margin: 50px;
+  }
